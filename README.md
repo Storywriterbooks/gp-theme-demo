@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+[![Vuelancer](https://yt3.ggpht.com/a-/AOh14Gg9FpIER198gr8iephfzZZJJ4mvDzNE-kLOOkRWfA=s100-c-k-c0xffffffff-no-rj-mo)](https://www.youtube.com/channel/UC0hmXRqXYVO0mocVt5D3GkQ)
 
-You can use the [editor on GitHub](https://github.com/Storywriterbooks/gp-theme-demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Hii Vuelancers! 💻🕺
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- I'm currently working on typescript 💻 courses that will be available on my youtube channel [Vuelancer](https://www.youtube.com/channel/UC0hmXRqXYVO0mocVt5D3GkQ) 🎇
 
-### Markdown
+- I formerly created a python course in [Scrimba](https://scrimba.com/@selvakumardhivakar)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- More contents will be added!
 
-```markdown
-Syntax highlighted code block
+## About Me!
 
-# Header 1
-## Header 2
-### Header 3
+- Interested Frameworks - _Vuejs_ 💚, _Ionic_ 🤍, _Flutter_ 💙
+- Planning to study - Angular, React, Vuejs, Svelte, Flutter, Ionic, etc., 😜😜
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Storywriterbooks/gp-theme-demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+![Vuelancer Github Stats](https://github-readme-stats.vercel.app/api?username=selvakumardhivakar&show_icons=true)
+---
